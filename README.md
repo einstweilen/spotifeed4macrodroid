@@ -1,15 +1,23 @@
 # SpotiFeed4MacrodDroid
 
-A very simple Android [MacroDroid](https://www.macrodroid.com/) macro to subscribe to Open Spotify podcasts with any podcast app.
+A very simple Android [MacroDroid](https://www.macrodroid.com/) macro to subscribe to Open Spotify podcasts with any podcast app. See [references](#references)
 
 ## Download Link
 [https://github.com/einstweilen/spotifeed4macrodroid/releases](https://github.com/einstweilen/spotifeed4macrodroid/releases)
 
 ## How To Use
-Copy any open.spotify.com link to the clipboard and press the green megaphone button.
-The link will be converted and your standard podcast app will launch.
+① Search a podcast on Spotify or use Google search:
 
-## Reference:
+[inurl:https://open.spotify.com/show/](https://www.google.com/search?q=inurl:https://open.spotify.com/show/)
+
+② Copy any open.spotify.com link to the ③ clipboard and press the ④ green megaphone button.
+The link will be converted and your standard ⑤ podcast app will launch.
+
+![](step01.jpg)
+
+![](step05.jpg)
+
+## References:
 
 * [Tim Dorr's service to serve up Spotify podcasts as RSS feeds for use in any podcast app](https://github.com/timdorr/spotifeed)
 * [MacroDroid](https://www.macrodroid.com/) for Android, free trial version (up to five macros) 
