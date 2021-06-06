@@ -2,6 +2,15 @@
 
 A very simple Android [MacroDroid](https://www.macrodroid.com/) macro to subscribe to Open Spotify podcasts with any podcast app. See [references](#references)
 
+# IMPORTANT NOTE
+**As Spotifeed has been discontinued, this macro no longer works**!
+
+From the Spotifeed website:
+*Unfortunately, Spotify has made critical changes to their podcast download infrastructure that prevents Spotifeed from working.
+(...)
+For exclusive podcasts, Spotify is using their audio-fa.scdn.co server, which appears to be using a chunked MP4 stream that is not usable by general podcast clients.*
+[more ...](https://spotifeed.timdorr.com/)
+
 ## Download Link
 [https://github.com/einstweilen/spotifeed4macrodroid/releases](https://github.com/einstweilen/spotifeed4macrodroid/releases)
 
